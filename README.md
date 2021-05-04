@@ -1,3 +1,3 @@
 # Face_Recognition and Attendance System
-FastAPI
+FastAPI,
 OpenCV
