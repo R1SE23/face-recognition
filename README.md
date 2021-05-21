@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition and Attendance System
 - FastAPI, OpenCV, python
 
