@@ -40,6 +40,7 @@ print('Encoding Complete')
  
 cap = cv2.VideoCapture(0)
  
+
 while True:
     success, img = cap.read()
     #img = captureScreen()
